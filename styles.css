@@ -1,4 +1,8 @@
 h1 {
   background-color: #000;
   color: #fafafa;
+  text-align: center;
+  align-items: center;
+
+  margin-top: 45vh;
 }
